@@ -14,7 +14,7 @@ def sumaTodos(limitTo, f):
     
     return resultado
 
-if__name__=='__main__':
+if __name__ == "__main__":
     print(sumaTodos(100,normal))
     print(sumaTodos(3,cuadrado))
 
